@@ -1,0 +1,11 @@
+c:\users\yosef\Source\Repos\MVCTestmasGlobal\MVCTestmasGlobal\bin\Debug\netcoreapp2.0\MVCTestmasGlobal.deps.json
+c:\users\yosef\Source\Repos\MVCTestmasGlobal\MVCTestmasGlobal\bin\Debug\netcoreapp2.0\MVCTestmasGlobal.runtimeconfig.json
+c:\users\yosef\Source\Repos\MVCTestmasGlobal\MVCTestmasGlobal\bin\Debug\netcoreapp2.0\MVCTestmasGlobal.runtimeconfig.dev.json
+c:\users\yosef\Source\Repos\MVCTestmasGlobal\MVCTestmasGlobal\bin\Debug\netcoreapp2.0\MVCTestmasGlobal.dll
+c:\users\yosef\Source\Repos\MVCTestmasGlobal\MVCTestmasGlobal\bin\Debug\netcoreapp2.0\MVCTestmasGlobal.pdb
+c:\users\yosef\Source\Repos\MVCTestmasGlobal\MVCTestmasGlobal\obj\Debug\netcoreapp2.0\MVCTestmasGlobal.csprojResolveAssemblyReference.cache
+c:\users\yosef\Source\Repos\MVCTestmasGlobal\MVCTestmasGlobal\obj\Debug\netcoreapp2.0\MVCTestmasGlobal.csproj.CoreCompileInputs.cache
+c:\users\yosef\Source\Repos\MVCTestmasGlobal\MVCTestmasGlobal\obj\Debug\netcoreapp2.0\MVCTestmasGlobal.AssemblyInfoInputs.cache
+c:\users\yosef\Source\Repos\MVCTestmasGlobal\MVCTestmasGlobal\obj\Debug\netcoreapp2.0\MVCTestmasGlobal.AssemblyInfo.cs
+c:\users\yosef\Source\Repos\MVCTestmasGlobal\MVCTestmasGlobal\obj\Debug\netcoreapp2.0\MVCTestmasGlobal.dll
+c:\users\yosef\Source\Repos\MVCTestmasGlobal\MVCTestmasGlobal\obj\Debug\netcoreapp2.0\MVCTestmasGlobal.pdb
